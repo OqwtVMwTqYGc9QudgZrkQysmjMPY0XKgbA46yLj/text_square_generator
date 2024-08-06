@@ -71,11 +71,3 @@ The script attempts to use the Noto Sans font, falling back to the Hack font, an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## Contact
-
-For any questions or feedback, please contact [your-email@example.com].
